@@ -1,6 +1,3 @@
-I've filled in the README from your dataset. I could read the file but not run calculations on it, so everything below comes from the data's structure (counts, ranges, categories). Anything that needs aggregation, like revenue or averages, is still a bracketed placeholder for your own numbers.
-
-````markdown
 # Customer Shopping Behavior Analysis
 
 ## Overview
@@ -101,14 +98,6 @@ The dashboard includes:
 ```
 
 ## Contact
-**[Your Name]**
-[LinkedIn URL] | [Email] | [Portfolio URL]
-````
+**[Mohd Imtiyaz Shaikh]**
+[burundada@gmail.com]
 
-Before you publish, check three things against your own work:
-
-- **Cleaning steps and SQL questions:** I wrote typical ones for this dataset, so edit them to match what you actually did.
-- **Dashboard contents:** the list is a guess at your visuals; swap in the real ones.
-- **Gender finding:** confirm in your notebook that subscriptions and discounts are male-only. If it holds, it's your most interesting result, though it may just reflect how the dataset was generated, so present it as an observation.
-
-If you send me your SQL query outputs, I can fill in the remaining placeholders.
